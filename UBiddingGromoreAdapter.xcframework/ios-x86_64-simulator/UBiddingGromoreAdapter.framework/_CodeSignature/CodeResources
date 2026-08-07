@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UdeC/lX9XFW+GaZnKWm4hRd4KLA=
+		TKN7odvIxL9F49A7H2LcEEIg1fU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/UBiddingGromoreAdapter-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ekzQhee9yQ+7i8nscjOxKGvRLBg=
-			</data>
 			<key>hash2</key>
 			<data>
 			/X4rPaT4kdAUOqo7wL5RqCKn9meYKg8sI7NSyjea8YI=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/UBiddingGromoreAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8IXrIkWGGZRRnQmU6YKCgxZTWN4=
-			</data>
 			<key>hash2</key>
 			<data>
 			rdoXA3mI5PRvbTuFY0+fnVTv5sfeMT5xs6T+np3dRbM=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rJtYA54lAXOLBUQiIuPpUtlCUbY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Bau9dr6MbHG52jIKTuVQoglR5CuSHo8+D1GjKqjnqLU=
