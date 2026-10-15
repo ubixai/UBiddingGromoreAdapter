@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiddingGromoreAdapter'
-  s.version          = '7.8.0.2.1'
+  s.version          = '7.8.0.7.0'
   s.summary          = 'UBiddingGromoreAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.vendored_frameworks = 'UBiddingGromoreAdapter.xcframework'
 
-  s.dependency 'Ads-CN-Beta/BUAdSDK', '7.8.0.2'
-  s.dependency 'Ads-CN-Beta/CSJMediation', '7.8.0.2'
+  s.dependency 'Ads-CN-Beta/BUAdSDK', '7.8.0.7'
+  s.dependency 'Ads-CN-Beta/CSJMediation', '7.8.0.7'
   s.dependency 'UBiddingAdSDK'
 end
